@@ -245,15 +245,4 @@ CREATE SCHEMA IF NOT EXISTS finaltest;
 3. **Global Expansion**: Strategic entry into low-risk, high-potential markets
 
 ---
-## Additional Resources
 
-- [RFM Analysis Best Practices](https://blog.google/products/analytics/)
-- [Customer Segmentation Strategies](https://www.salesforce.com/resources/articles/customer-segmentation/)
-- [Fraud Detection in SaaS](https://stripe.com/guides/fraud-prevention)
-
----
-
-**Note**: This project contains analytical insights based on real user behavior patterns. Ensure compliance with data privacy regulations (GDPR, CCPA) when implementing similar analyses in production environments.
-
-**Last Updated**: June 2025  
-**Version**: 2.0  
